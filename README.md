@@ -1,4 +1,4 @@
-\# 3eyes-game (○×ゲーム)
+# 3eyes-game (○×ゲーム)
 
 
 
@@ -6,7 +6,7 @@ TypeScript（JavaScript）の学習用に作成した、シンプルな3x3の○
 
 
 
-\## 🎮 デモの動かし方
+## 🎮 デモの動かし方
 
 
 
@@ -14,14 +14,14 @@ TypeScript（JavaScript）の学習用に作成した、シンプルな3x3の○
 
 2\. フォルダ内でローカルサーバーを起動します。
 
-&#x20;  ```bash
+```bash
 
-&#x20;  npx http-server .
+npx http-server .
+```
 
 
-
-\## 技術スタック
+## 技術スタック
 - HTML5 / CSS3 (CSS Grid)
 
-\- JavaScript (TypeScriptベース)
+- JavaScript (TypeScriptベース)
 
